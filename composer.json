@@ -1,0 +1,27 @@
+{
+    "name": "sorethea/car",
+    "description": "Car owner logging system.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sorethea\\Car\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sorethea\\Car\\AuthCarServiceProvider",
+                "Sorethea\\Car\\CarServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Sorethea OK",
+            "email": "sorethea@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
