@@ -1,6 +1,6 @@
 {
     "name": "sorethea/car",
-    "description": "Car owner logging system.",
+    "description": "Car's owner logging system.",
     "type": "project",
     "license": "MIT",
     "autoload": {
