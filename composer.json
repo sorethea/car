@@ -12,7 +12,6 @@
         "laravel": {
             "providers": [
                 "Sorethea\\Car\\AuthCarServiceProvider",
-                "Sorethea\\Car\\CarPlugin",
                 "Sorethea\\Car\\CarServiceProvider"
             ]
         }
